@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - mishapos-dev-1
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
